@@ -38,4 +38,6 @@ loss_score for both Generator/ Discriminator:
 interpolation for digit 2~7:
 
 ![image](https://github.com/user-attachments/assets/55b8150a-ef47-488b-8ddb-122705b0acee)
+a0e9d068ece040dd5e56ebb59b76872c203c2a32
+
 
